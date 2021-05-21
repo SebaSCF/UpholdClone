@@ -1,0 +1,60 @@
+.BalanceCard{
+    height: 100%;
+    padding: 30px;
+    display: flex;
+    background-color: #ffffff;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.balanceTitle{
+    font-size: 14px;
+    letter-spacing: 0.4px;
+    line-height: 20px;
+    color: rgb(104, 119, 141);
+    font-weight: 600;
+}
+
+.Balance h4{
+    margin-top: -15px;
+    font-weight: 700;
+}
+
+.balanceGraph{
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.balanceBtn{
+    flex: 1;
+    font-weight: 700;
+    font-size: 13px;
+    margin: 20px;
+    padding: 06px;
+    border: none;
+    border-radius: 20px;
+    letter-spacing: 0.8px;
+    line-height: 15px;
+    background-color: white;
+}
+
+
+
+.balanceFundings{
+    flex: 1;
+}
+
+.balanceFundings h6{
+    color: #444343;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 24px;
+}
+.recentSubtitle{
+    color: #757575;
+    margin-top: 07px;
+    font-size: 14px;
+    font-weight: 300;
+}

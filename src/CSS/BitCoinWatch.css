@@ -1,0 +1,116 @@
+.bitCoinwatch{
+    height: 100%;
+    width: 100%;
+
+
+}
+
+.bitIcon1{
+    font-size: 19px;
+    color: #ff9b05;
+}
+
+.coins{
+    padding: 15px;
+    display: flex;
+    background-color: #ffffff;
+    border-radius: 10px;
+
+}
+
+.coinProfile{
+    flex: 1;
+    align-content: space-between;
+    color: #444343;
+
+}
+
+.coinPercent{
+    color: #00aa17;
+}
+
+.watchlist{
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.watchlist h6{
+    color: #444343;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 24px;
+}
+
+.watchlistContainer{
+    display: flex;
+    align-content: center;
+
+}
+
+.coinInfo{
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+
+}
+
+.bitIcon2{
+    font-size: 42px;
+    color: #ff9b05;
+    align-content: center;
+    margin-right: 8px;
+}
+
+.coin{
+    font-size: 14px;
+}
+
+.coinAbrv{
+    color: #757575;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.coinInfo{
+    flex: 1;
+}
+
+.coinPercent{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.coinPrices{
+    text-align: right;
+}
+
+.coinPrice{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.recentActivity{
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.recentActivity h6{
+    color: #444343;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 24px;
+}
+.recentSubtitle{
+    color: #757575;
+    margin-top: 07px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.Preview{
+
+}

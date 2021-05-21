@@ -1,0 +1,52 @@
+.logoContainer img{
+    width: 45px;
+}
+
+.navBar{
+    background-color: #ffffff;
+    padding: 08px;
+    display: flex;
+    flex-direction: column;
+    width: 60px;
+    text-align: center;
+    position: fixed;
+    height: 100%;
+    overflow-x: hidden;
+    z-index: 1;
+
+}
+
+.logoContainer{
+    flex: 1;
+}
+
+.menu{
+    flex: 4;
+}
+
+.menuIcons{
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+
+
+}
+
+.menuIcons i:hover{
+    cursor: pointer;
+    background-color: white !important;
+}
+
+
+.MuiButton-root {
+    font-size: 40px !important;
+    min-width: 0px !important;
+}
+
+@media only screen and (max-width: 723px) {
+    .navBar{
+        visibility: hidden;
+    }
+  }
